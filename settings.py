@@ -1,17 +1,11 @@
 """Settings module for emailer."""
 
-# Settings Loredana.
-# USER = 'i_loredana20@yahoo.com'
-# PASSWORD = 'ILbalanta8701'
-# SUBJECT = 'Job Application: Dressmaker'
-# MESSAGE_BODY = 'cover_letter_Loredana_dressmaker.txt'
-
 
 # Settings Radu.
 USER = 'radupopa2010@yahoo.com'
-PASSWORD = 'Rm.Valcea'
-SUBJECT = 'Job Application: Back-End Developer'
-MESSAGE_BODY = 'cover_letter_radu.txt'
+PASSWORD = ''
+SUBJECT = 'Job Application'
+MESSAGE_BODY = 'cover_letter.txt'
 
 
 # Folder containing all the files you want to attach.
